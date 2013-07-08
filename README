@@ -12,7 +12,7 @@ Están implementados los servicios de Autenticación y el de Factura Electrónic
 === Ejempos de uso
 
 * para ejecutar estos ejemplos, como para hacer uso de la librería se debe primero 
-  solicitar un certificado digital. para más informacion http://afip.gov.ar/fe
+  solicitar un certificado digital. para más informacion http://www.afip.gov.ar/fe
 
 
 obtener un token de autenticación
